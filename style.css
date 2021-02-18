@@ -1,0 +1,303 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.yatop1{
+    height: 50vh;
+}
+.galery{
+    margin: auto;
+    height: 200px;
+    width: 975px;
+}
+.yanebulvchernobule{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.spasite{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.MCoCtop{
+    height: 200px;
+    width: 300px;
+    margin-right: 25px;
+    float: left;
+}
+.gnostridertop{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+
+
+
+.heey{
+    height: 45vh;
+    margin: auto;
+    width: 1050px;
+    font-size: 12px;
+}
+
+.hey1{
+    height: 45vh;
+    width: 350px;
+    float: left;
+    text-align: center;
+    
+    
+}
+.haikyuu1{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+}
+.hey2{
+    height: 45vh;
+    width: 350px;
+    float: left;
+    text-align: center;
+}
+.haikyuu2{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+}
+.hey3{
+    height: 45vh;
+    width: 350px;
+    float: left;
+    text-align: center;
+}
+
+.haikyuu3{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+
+}
+
+
+
+
+
+.BG1{
+    height: 25vh;
+    background-color: #f7f8fa;
+}
+.BG2{
+    height: 5px;
+    background-color: rgba(20, 20, 20, 0.5);
+}
+
+.TEXTINSIDE1
+{
+    width: 500px;
+    height: 50px;
+    margin-left: 50vw;
+    text-align: center;
+    outline: none;
+    font-size: 25px;
+    color: black;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.TEXTINSIDE2
+{
+    margin-left: 50vw;
+    margin-top: 5px;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+    color: gray;
+    margin: auto;
+}
+
+.main{
+	background-image: url(https://cdn.discordapp.com/attachments/763726027343134720/806936637581164544/dor.png);
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+	width: 100%;
+	margin: auto;
+}
+
+.main_gradient{
+	height: 80vh;
+	width: 100%;
+	background: rgb(4,0,65);
+	background: linear-gradient(0deg, rgba(4,0,65,0.7981438515081206) 0%, rgba(0,1,56,0.9025522041763341) 100%);
+	padding-top: 10vh;
+	margin: auto;
+}
+
+.text1{
+	text-align: center;
+	/*margin-left: 100vh;*/
+	color: white;
+	margin-bottom: 1.7vh;
+	font-size: 40px;
+}
+
+.text2{
+    text-align: center;
+	/*margin-left: 101vh;*/
+	color: #586780;
+	margin-bottom: 7vh;
+	font-size: 25px;
+}
+
+.registration_block1{
+	/*border: 1px solid black;*/
+	margin: auto;
+	width: 610px;
+	margin-bottom: 15px;
+}
+
+.text_area{
+	border: 3px solid #75757575;
+	border-radius: 3px;
+	background: #00000000 !important;
+	margin: auto;
+	outline: none;
+	width: 600px;
+	color: #bfbfbf;
+	font-size: 20px;
+}
+
+.text_area1{
+	height: 50px;
+	border-radius: 1%;
+	margin-bottom: 20px;
+}
+
+.text_area2{
+	height: 50px;
+	border-radius: 1%;
+	margin-bottom: 20px;
+}
+
+.text_area3{
+	height: 150px;
+	border-radius: 1%;
+	resize: none;
+}
+
+.buttom_fild{
+	margin: auto;
+	width: 610px;
+	color: #bfbfbf;
+}
+
+.chch{
+	float: left;
+}
+
+.text_check{
+	font-size: 15px;
+	float: left;
+}
+
+.sbsb{
+	float: right;
+	border: 2px solid #75757575;
+	background: #00000000 !important;
+	border-radius: 4%;
+	height: 35px;
+	width: 140px;
+	color: #bfbfbf;
+}
+
+
+
+
+
+
+.bg{
+	height: 90vh;
+	background-image: url(https://avatars.mds.yandex.net/get-zen_doc/3937202/pub_5f7a24418d3ae5589b4b99cd_5f7a29d361e6d41ef504e372/scale_1200);
+	background-size: cover;
+	background-position: center;
+}
+.main2{
+	height: 90vh;
+	background-color: #08080866;
+	text-align: center;
+}
+.line{
+	background-color: red;
+	width: 600px;
+	height: 2px;
+	margin: 20px auto;
+}
+.text_1{
+	font-size: 50px;
+	color: white;
+	padding-top: 160px;
+}
+.text_2{
+	color: white;
+	margin: 20px auto;
+}
+.buttom_my{
+	width: 200px;
+	height: 40px;
+	background-color: #00000000;
+	border: 2px solid red;
+	outline: none;
+	color: white;
+	margin-top: 40px;
+}
+.img_my{
+	width: 25px;
+	height: 25px;
+	margin-top: 150px;
+}
+
+
+
+.img {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-right: 25px;
+}
+.img6 {
+	width: 300px;
+	height: 200px;
+	background-image: url(https://journal.homemania.ru/media/articles/2019/02/16/cached/103639a1f19b_1200_1200.jpg);
+	background-position: center;
+	background-size: cover;
+	float: left;
+}
+.mini_pic {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-right: 10px;
+}
+.blackout {
+	width: 205px;
+	height: 125px;
+	background-color: #1df08d90;
+	padding-top: 75px;
+	padding-left: 95px;
+}
+.mini_pic_block {
+	width: 120px;
+	height: 50px;
+}
+.mainblock {
+	height: 30vh;
+	background-color: #f8f8f8;
+}
+.images {
+	width: 950px;
+	margin: auto;
+}
